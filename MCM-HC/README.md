@@ -16,13 +16,13 @@ To change the dataset, just modify the config file, and then read the different 
 ## Training
 
 ```python
-train.sh
+run train.sh
 ```
 
 ## Testing
 
 ```python
-python test.py --config-file XXpath --checkpoint-file XXpath
+python test_net.py --config-file XXpath --checkpoint-file XXpath
 ```
 
 ## Results
