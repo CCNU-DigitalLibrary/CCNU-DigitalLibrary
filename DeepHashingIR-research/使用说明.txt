@@ -1,0 +1,13 @@
+数据集放置在代码所在目录磁盘的 dataset文件夹内  和data中的对应一致： dataset中数据集文件名应命名如下
+Books:自制图书封面数据集
+mirflickr: Flickr25K
+VOCdevkit: VOC2012
+cifar: CIFAR-10(运行自动下载)
+
+运行ADHN.py 和 MLDHN.py即可，重要参数：
+        "dataset": "cifar10",  指定对应数据集，和data文件夹内的命名应一致
+        "epoch": 15,   总训练epoch
+        "test_map": 15,   训练多少epoch验证一次图像检索mAP
+        "save_path": "save/ADHN",  网络参数存储位置
+        "bit_list": [48],   生成哈希长度 一般为16，32，48，64
+
