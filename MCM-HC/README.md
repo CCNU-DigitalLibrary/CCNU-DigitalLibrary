@@ -26,15 +26,14 @@ python test_net.py
 ```
 
 ## Results
-![image-20230612160035367](C:\Users\10211\AppData\Roaming\Typora\typora-user-images\image-20230612160035367.png)
+![image](https://github.com/CCNU-DigitalLibrary/CCNU-DigitalLibrary/assets/135103900/c78f3e91-38ad-4b69-8c04-2f810595b45a)
 
 #### ICFG-PEDES dataset
 
-![image-20230612160113537](C:\Users\10211\AppData\Roaming\Typora\typora-user-images\image-20230612160113537.png)
+![image](https://github.com/CCNU-DigitalLibrary/CCNU-DigitalLibrary/assets/135103900/8dbdacb5-e9ed-4c58-8e82-a43d7349e3d1)
 
 #### CUHK-PEDES dataset
 
-![image-20230612160058984](C:\Users\10211\AppData\Roaming\Typora\typora-user-images\image-20230612160058984.png)
-
+![image](https://github.com/CCNU-DigitalLibrary/CCNU-DigitalLibrary/assets/135103900/4baf5353-61ab-4cd5-85cf-a1e40a1be433)
 
 
