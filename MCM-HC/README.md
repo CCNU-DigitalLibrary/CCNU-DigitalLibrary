@@ -22,7 +22,7 @@ train.sh
 ## Testing
 
 ```python
-python test_net.py 
+python test.py --config-file XXpath --checkpoint-file XXpath
 ```
 
 ## Results
